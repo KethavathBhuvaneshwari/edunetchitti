@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "body-parse": "^0.1.0",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "express-validator": "^7.2.0",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.9.2",
+        "nodemon": "^3.1.9"
+    },
+    "name": "chitti",
+    "version": "1.0.0",
+    "main": "App.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
